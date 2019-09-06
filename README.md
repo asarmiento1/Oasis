@@ -15,10 +15,10 @@ Built using the best practices of modern software engineering processes such as 
 ## Team Members
 
 ```
-1. Ratna Lama  Team Leader
+1. Andrew    Backend Team lead
 
-   Role:
-         * Lead a team of 5 students to develop full web application using the best practices of modern    software engineering processes such as agile/scrum and user-centered design for providing a     good user experience
+Role:
+         * Lead a team of 3 students to develop full web application using the best practices of modern    software engineering processes              such as agile/scrum and user-centered design for providing a     good user experience
 
          * Responsible for design, development, test, deployment, monitoring and maintaining the listing   platform in the AWS cloud server
 
@@ -26,7 +26,7 @@ Built using the best practices of modern software engineering processes such as 
 
 2. Ade         Frontend Lead
 3. Adam        GitHub Master
-4. Andrew      Backend Lead
+4. Ratna       Team Lead
 5. Hadia       Developer
 6. Shawn       Developer
 ```
